@@ -39,7 +39,7 @@ A full-stack application for exploring and interacting with GIFs from Giphy. Bui
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MaddyAllen/giphy-explorer.git
    cd giphy-explorer
    ```
 
